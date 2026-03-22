@@ -53,6 +53,10 @@ The agent will then:
 4. Generate a title and description.
 5. Print the result.
 
+## Example Output
+
+![Generated PR Review Example](example-output.png)
+
 ## Code Structure
 
 - `main.py`: The main entry point for the application.
